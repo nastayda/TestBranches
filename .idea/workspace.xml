@@ -158,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521786906369</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HH-1 new comment in b1">
+      <created>1521789160065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521789160065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -197,7 +204,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HH-TEST New repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="HH-TEST New repo" />
+    <MESSAGE value="HH-1 new comment in b1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HH-1 new comment in b1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
